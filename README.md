@@ -11,7 +11,8 @@ Kataware is a dark Neovim colorscheme shaped by the fleeting twilight of <em>You
 ## Design
 
 - A deep indigo canvas with a controlled luminance ladder
-- Semantic accents for syntax, diagnostics, search, diffs, and focus
+- Semantic accents for syntax, diagnostics, diffs, and focus
+- Quiet indigo search backgrounds, with a slightly stronger current and incremental match
 - Treesitter and LSP semantic-token coverage
 - Carefully matched terminal colors
 - Native transparent mode, including floating and plugin windows
