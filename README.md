@@ -120,6 +120,7 @@ Kataware includes focused highlight groups for:
 - Gitsigns
 - todo-comments
 - mini.statusline and mini.tabline
+- multicursor.nvim: muted blue-gray cursors, with dimmer disabled cursors
 
 Plugins without dedicated groups inherit the core Neovim and floating-window palette.
 
